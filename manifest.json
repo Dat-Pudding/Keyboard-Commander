@@ -13,7 +13,8 @@
         "payload": {
             "background_music": [
                 "music/track_1.mp3"
-            ]
+            ],
+
             /*            
             "browser_sounds": 
             {
@@ -80,21 +81,22 @@
                 "TAB_SLASH": 
                 [
                     "sound/tab_slash.mp3"
-                ]*/
-        },
-        "keyboard_sounds": 
-        {
-            "TYPING_BACKSPACE": 
-            [
+                ]
+            },*/
+
+            "keyboard_sounds": 
+            {
+                "TYPING_BACKSPACE": 
+                [
                 "keyboard/backspace.wav"
-            ],
+                ],
 
-            "TYPING_ENTER": 
-            [
+                "TYPING_ENTER": 
+                [
                 "keyboard/enter.wav"
-            ],
+                ],
 
-            "TYPING_LETTER": [
+                "TYPING_LETTER": [
                 "keyboard/letter_S.wav",
                 "keyboard/letter_T.wav",
                 "keyboard/letter_A.wav",
@@ -111,8 +113,8 @@
                 "keyboard/letter_O.wav",
                 "keyboard/letter_W.wav",
                 "keyboard/exclamation_mark.wav"
-            ]
-        }
+                ]
+            }
         },
         "schema_version": 1
     },
