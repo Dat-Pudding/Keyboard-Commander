@@ -7,7 +7,7 @@
 ## What's planned
  This is what's planned to be done in the foreseeable future in no particular order:
  * Sound balancing
- * getting an **icon**
+ * getting a better **icon**
  * creating and adding a **shader**
  * creating and adding light/dark themed **wallpapers**
  * generating **browser sounds**
@@ -25,8 +25,18 @@
  3. **Done**
 
 ### Installation with the CRX file
- * *To be added...*
+ * Click on __*Releases*__ right of the file overview
+    - Choose the version compatible to your OperaGX version
+    - Download the CRX file
+ * Just drop the CRX file into an open OperaGX window
+ * **Done**
 
+
+#### Proposing Phrases, words to be "sent" with or the WPM of the keyboard sounds
+ If you want something specific "sent" you can file an issue with the label **"proposal"** containing at least the following information:
+ * Phrase or word
+ * The use case (i.e. seasonal) - when no special occasion is given just write "General"
+ * Wanted tone frequency (write "same" if you like it at 640Hz) and Words Per Minute speed (WPM) in the fashion of *[yourphrase], [yourWPM]*
 
 
 
