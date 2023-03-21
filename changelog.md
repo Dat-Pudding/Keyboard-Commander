@@ -3,7 +3,7 @@
 * established basic functionality
 
 ### v0.2
-* Added Icon
-* completed license.txt
-* adjusted WPM to a higher speed
+* Added preliminary Icon
+* completed license.txt (preliminarily)
+* adjusted WPM to a higher speed (to be measured)
 * Added more letter signals
