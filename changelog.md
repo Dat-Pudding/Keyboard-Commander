@@ -6,3 +6,4 @@
 * Added Icon
 * completed license.txt
 * adjusted WPM to a higher speed
+* Added more letter signals
