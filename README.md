@@ -28,6 +28,7 @@
  * Click on __*Releases*__ right of the file overview
     - Choose the version compatible to your OperaGX version
     - Download the CRX file
+ > *NOTE: If you download the .crx in OperaGX it will automatically detect and install it*
  * Just drop the CRX file into an open OperaGX window
  * **Done**
 
