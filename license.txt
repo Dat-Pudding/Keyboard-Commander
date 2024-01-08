@@ -5,6 +5,7 @@
                         |_|                
 ...............................................................................
 
+This just adds battlefield ambience of artillery and machine gun fire in the distance, dampened by rain and supplemented by keyboard sounds actually saying something.
 
                               
  _____           _ _ _       
@@ -34,9 +35,9 @@ please inquire with the original Composer (Kurtul Sükan)
 |__|__|___|___|___|___|
 ...............................................................................
                        
-Kudos to @Syλdiyλ the creator of the "Ambient Rain" mod and the anon behind 
-the "Morse Code" mod for inspiring me
+Kudos to @Syλdiyλ the creator of the "Ambient Rain" mod as well as the creator behind 
+the "Morse Code" mod for inspiring me.
 
-And special Kudos to the anon creator of the "GX Boy" mod - your "normal" 8-bit Shader 
+And special Kudos to the creator of the "GX Boy" mod - your "normal" 8-bit Shader 
 fits the atmosphere quite nicely while remaining well readable!
 
