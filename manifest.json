@@ -10,12 +10,24 @@
     "manifest_version": 3,
     "mod": {
         "license": "license.txt",
-        "payload": {
-            "background_music": [
-                "music/track_1.mp3"
-            ],
+      "payload": {
+        "background_music": [
+          "music/track_1.mp3"
+        ],
 
-            /*            
+        "wallpaper": {
+          "light": {
+            "image": "wallpaper/wallpaper.jpg",
+            "text_color": "#FFFFFF",
+            "text_shadow": "#0B000E"
+          },
+          "dark": {
+            "image": "wallpaper/wallpaper.jpg",
+            "text_color": "#FFFFFF",
+            "text_shadow": "#0B000E"
+          }
+        },
+        /*            
             "browser_sounds": 
             {
                 "CLICK": 
@@ -84,38 +96,35 @@
                 ]
             },*/
 
-            "keyboard_sounds": 
-            {
-                "TYPING_BACKSPACE": 
-                [
-                "keyboard/backspace.wav"
-                ],
+        "keyboard_sounds": {
+          "TYPING_BACKSPACE": [
+            "keyboard/backspace.wav"
+          ],
 
-                "TYPING_ENTER": 
-                [
-                "keyboard/enter.wav"
-                ],
+          "TYPING_ENTER": [
+            "keyboard/enter.wav"
+          ],
 
-                "TYPING_LETTER": [
-                "keyboard/letter_S.wav",
-                "keyboard/letter_T.wav",
-                "keyboard/letter_A.wav",
-                "keyboard/letter_R.wav",
-                "keyboard/letter_T.wav",
-                "keyboard/letter_A.wav",
-                "keyboard/letter_S.wav",
-                "keyboard/letter_S.wav",
-                "keyboard/letter_A.wav",
-                "keyboard/letter_U.wav",
-                "keyboard/letter_L.wav",
-                "keyboard/letter_T.wav",
-                "keyboard/letter_N.wav",
-                "keyboard/letter_O.wav",
-                "keyboard/letter_W.wav",
-                "keyboard/exclamation_mark.wav"
-                ]
-            }
-        },
+          "TYPING_LETTER": [
+            "keyboard/letter_S.wav",
+            "keyboard/letter_T.wav",
+            "keyboard/letter_A.wav",
+            "keyboard/letter_R.wav",
+            "keyboard/letter_T.wav",
+            "keyboard/letter_A.wav",
+            "keyboard/letter_S.wav",
+            "keyboard/letter_S.wav",
+            "keyboard/letter_A.wav",
+            "keyboard/letter_U.wav",
+            "keyboard/letter_L.wav",
+            "keyboard/letter_T.wav",
+            "keyboard/letter_N.wav",
+            "keyboard/letter_O.wav",
+            "keyboard/letter_W.wav",
+            "keyboard/exclamation_mark.wav"
+          ]
+        }
+      },
         "schema_version": 1
     },
     "name": "Keyboard Commander",

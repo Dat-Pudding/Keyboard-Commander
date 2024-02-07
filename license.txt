@@ -7,7 +7,6 @@
 
 This just adds battlefield ambience of artillery and machine gun fire in the distance, dampened by rain and supplemented by keyboard sounds actually saying something.
 
-                              
  _____           _ _ _       
 |     |___ ___ _| |_| |_ ___ 
 |   --|  _| -_| . | |  _|_ -|
@@ -17,7 +16,8 @@ This just adds battlefield ambience of artillery and machine gun fire in the dis
 Huge thanks to Kurtul Sükan for composing the amazing ambience soundtrack
 Spotify: https://spotify.link/mvPWglgDiyb
 YouTube: https://youtube.com/@nomad_tr
-                                                              
+     
+                                                         
  __    _                         
 |  |  |_|___ ___ ___ ___ ___ ___ 
 |  |__| |  _| -_|   |  _| -_|_ -|
@@ -28,16 +28,13 @@ You are free to use my morse encoded sounds/letters, please just credit me when 
 
 In case you want to use the ambience soundtrack or it's source content outside of personal use 
 please inquire with the original Composer (Kurtul Sükan)
-                       
+           
+            
  _____       _         
 |  |  |_ _ _| |___ ___ 
 |    -| | | . | . |_ -|
 |__|__|___|___|___|___|
 ...............................................................................
                        
-Kudos to @Syλdiyλ the creator of the "Ambient Rain" mod as well as the creator behind 
+Kudos to @Syλdiyλ the creator of the "Ambient Rain" mod as well as to the creator behind 
 the "Morse Code" mod for inspiring me.
-
-And special Kudos to the creator of the "GX Boy" mod - your "normal" 8-bit Shader 
-fits the atmosphere quite nicely while remaining well readable!
-
