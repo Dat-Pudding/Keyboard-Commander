@@ -1,7 +1,7 @@
 # **Keyboard Commander**
  Adds distant artillery and combat ambience and morse signals for keyboard inputs.
  
- Get the "Commanding Officer in hearing distance to the frontline while morsing orders to this very frontline" feeling when 
+ Get the "Commanding Officer in hearing distance to the frontline while morsing orders to that very frontline" feeling when 
  writing the next rant on Reddit or in the YouTube comment section. Or while you write a ReadMe on GitHub like I do right now with this test build.
 
 ## What's planned
