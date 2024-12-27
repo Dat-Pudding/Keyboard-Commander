@@ -1,7 +1,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Dat-Pudding/Keyboard-Commander/total.svg)](https://github.com/Dat-Pudding/Keyboard-Commander/releases)
 [![GitHub release](https://img.shields.io/github/release/Dat-Pudding/Keyboard-Commander/all.svg)](https://github.com/Dat-Pudding/Keyboard-Commander/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Dat-Pudding/Keyboard-Commander)](https://github.com/Dat-Pudding/Keyboard-Commander/releases)
-[![GitHub license](https://img.shields.io/github/license/Dat-Pudding/Keyboard-Commander.svg)](https://github.com/Dat-Pudding/Keyboard-Commander/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Dat-Pudding/Keyboard-Commander.svg)](https://github.com/Dat-Pudding/Keyboard-Commander/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Dat-Pudding/Keyboard-Commander.svg)](https://github.com/Dat-Pudding/Keyboard-Commander/network)
 
